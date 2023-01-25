@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 date: 2018-07-07T03:00:50-07:00
 thumbnail: /images/uploads/bael-big.jpg
 ---
